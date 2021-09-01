@@ -12,16 +12,17 @@ A tool to display in cli the current status, progress, and celerity of the team.
 
 You will have to add a milestone on every issues.
 
+
 ## Installation
 
-Install the command `composer` and inside cli type the command
-
 ```bash
-$ composer install
+$ brew tap funkymed/fteam
+$ brew install fteam
 ```
+
 ### Configuration
 
-Copy the file .env.dist to .env
+Create a file `.env` in your home directory `~/.fteam`
 
 Edit the credential and configuration for your gitlab 
 
