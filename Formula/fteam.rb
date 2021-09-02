@@ -6,7 +6,7 @@ class Fteam < Formula
   homepage "https://med.planet-d.net"
   url "https://github.com/funkymed/homebrew-fteam/raw/master/build/fteam.phar"
   version "1.14"
-  sha256 "4a9510df41eb80b4ab6e49d88447118f631b8b00251e167cfff916308d86fc72"
+  sha256 "1e42284dcf2daca00b3922d2bfda79e358f0ec37ae08882669f36eaffcbcdf28"
   license "MIT"
 
   uses_from_macos "php7"
